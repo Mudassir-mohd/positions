@@ -1,0 +1,75 @@
+#header{
+    padding-left: 15;
+    padding-right: 15;
+}
+.bannercard{
+    position: relative;
+}
+
+.bannercard img{
+    width: 1150;
+    height: 600;
+    align-items: center;
+
+}
+.bannertext{
+    position: absolute;
+    top: 300;
+    right: 700;
+    background-color: black;color: aliceblue;
+    font-weight: bolder;
+    
+
+}
+#project{
+    padding-left: 150;
+}
+.imgsrc{
+    position: relative;
+}
+
+.imgsrc img{
+    padding-left: 10;
+}
+.imgtext{
+    position: absolute;
+    top: 780;
+    padding-left: 185;
+    font: bolder;color:whitesmoke;
+}
+#ss{
+    padding-left: 75;
+}
+#contact{
+    padding-left: 150;
+}
+#paraa{
+    padding-left: 150;
+    font: bolder;
+}
+#name{
+    align-items: center;
+    padding-right: 1000;
+}
+#namee{
+    align-items: center;
+    padding-right: 1000;
+}
+#nameee{
+    align-items: center;
+    padding-right: 1000;
+}
+#nameeee{
+    align-items: center;
+    padding-right: 1000;
+
+}
+#button{
+    padding-right: 100;
+    background-color: black;color: aliceblue;
+}
+#foot{
+    background-color: black;
+    color: white;
+    width: 1500;height: 50;
+}
